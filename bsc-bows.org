@@ -1,0 +1,19 @@
+Bow shocks from the bright star catalog 
+
+* Data from Bodensteiner:2018a
++ http://vizier.cfa.harvard.edu/viz-bin/VizieR?-source=J/A+A/618/A110
++ There are lots of sources
+  + 34 aligned bow shocks
+  + 60 unaligned bows
+  + 52 centered (some of which look like bows to me)
+  + 72 unresolved
+  + 37 unclassified
++ Many are B stars
+  + Bows are mainly O or B0, but 11 are later, up to B5
+* Analysis plan
++ We have spectral types for all stars
+  + So we can in principle get luminosities
++ Can we do anything with just the 24 micron fluxes?
+  + There might not be Herschel data for 60 micron, so it may be the best we can do
++ Apply the \tau-\eta method as best we can
++ And try doing it based on the 24 micron emissivity as well
