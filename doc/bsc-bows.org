@@ -17,3 +17,13 @@ Bow shocks from the bright star catalog
   + There might not be Herschel data for 60 micron, so it may be the best we can do
 + Apply the \tau-\eta method as best we can
 + And try doing it based on the 24 micron emissivity as well
++ Look at statistics of
+  + R_0 vs L_*
+  + R_0 vs v
++ These ought to show R_0 declining with both
++ How to get luminosities?
+  + Could use spectral types
+  + And could then check V magnitudes using distance and BC to see if A_V distribution is reasonable
+  + Or even look for B-V values in literature
+    + Does the Bright Star Catalog have these?
++ Cross check the parallaxes with Gaia
