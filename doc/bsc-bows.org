@@ -27,3 +27,6 @@ Bow shocks from the bright star catalog
   + Or even look for B-V values in literature
     + Does the Bright Star Catalog have these?
 + Cross check the parallaxes with Gaia
+* Possible combination with Brown:2005a sources
++ These are also nearby stars (< 2kpc)
++ They have H\alpha images, so we can combine with IR
